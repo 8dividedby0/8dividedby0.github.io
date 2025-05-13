@@ -88,6 +88,15 @@ li a:hover:not(.active) {
     margin-right: 6pt;
 }
 
+.about h4 {
+    font-family: monospace;
+    color: rgb(189, 189, 255);
+    font-size: 12pt;
+    margin-top: 0;
+    margin-left: 10pt;
+    margin-right: 6pt;
+}
+
 .bottomtext {
     position: fixed;
     bottom: 0;
